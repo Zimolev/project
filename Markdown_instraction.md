@@ -62,3 +62,5 @@ ___
 Чтобы узнать больше, вы можете прочитать эту статью на сайте Markdown: [Wikipedia](https://en.wikipedia.org/wiki/Markdown "Markdown - Wikipedia"). Или языковая документация: [John Gruber](https://daringfireball.net/projects/markdown/ "Оригинальная документация от Markdown.").
 
 Изменения не проходять попрубуем в обратную сторону
+
+Из инета идут, а в инет не отправляются. 
